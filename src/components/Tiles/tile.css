@@ -1,0 +1,14 @@
+
+#tile{
+    display: grid;
+    place-content: center;
+}
+
+#tile.even{
+    background-color: rgb(110, 136, 136);
+    
+
+}
+#tile.odd{
+    background-color: white;
+}

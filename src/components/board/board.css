@@ -1,0 +1,5 @@
+#board{
+    background-color: rgb(248, 161, 161);
+    display: flex;
+    flex-wrap: wrap;
+}
